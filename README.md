@@ -93,10 +93,12 @@ pip install pandas==1.4.4
    $ make -j 16
    ```
 
-## When will we publish the source code?
+<!-- ## When will we publish the source code?
 
-The source code for the Time Outlier Removal (TOR) filter is scheduled to be published by 2025. We kindly ask for your patience.
+The source code for the Time Outlier Removal (TOR) filter is scheduled to be published by 2025. We kindly ask for your patience. -->
 
+## Contact
+If you have any questions, please contact yan1075783878@gmail.com
 
 ## Citation
 
